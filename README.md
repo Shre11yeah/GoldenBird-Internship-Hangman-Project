@@ -2,6 +2,8 @@
 
 Hangman Game in Pygame
 
+![HANGMAN_screenshot](https://github.com/Shre11yeah/GoldenBird-Internship-Hangman-Project/assets/130304646/5ee138f2-7e29-4a37-b5da-d2b473385bea)
+
 Explore the classic Hangman game reimagined in Python using Pygame, an interactive game development library. This repository offers a fun and educational gaming experience where players can guess words from diverse categories such as flowers, superheroes, movies, cricket players, and actors.
 
 Key Features:
